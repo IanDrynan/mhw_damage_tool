@@ -1,0 +1,2358 @@
+{
+  "great-sword": [
+    {
+      "name": "Charged Slash Lv1",
+      "hits": [
+        48
+      ]
+    },
+    {
+      "name": "Charged Slash Lv2",
+      "hits": [
+        77
+      ]
+    },
+    {
+      "name": "Charged Slash Lv3",
+      "hits": [
+        105
+      ]
+    },
+    {
+      "name": "Charged Slash Lv4",
+      "hits": [
+        77
+      ]
+    },
+    {
+      "name": "Overhead Slash",
+      "hits": [
+        48
+      ]
+    },
+    {
+      "name": "Strong Charged Slash Lv1",
+      "hits": [
+        65
+      ]
+    },
+    {
+      "name": "Strong Charged Slash Lv2",
+      "hits": [
+        90
+      ]
+    },
+    {
+      "name": "Strong Charged Slash Lv3",
+      "hits": [
+        115
+      ]
+    },
+    {
+      "name": "Strong Charged Slash Lv4",
+      "hits": [
+        90
+      ]
+    },
+    {
+      "name": "True Charged Slash Lv1",
+      "hits": [
+        15,
+        165
+      ]
+    },
+    {
+      "name": "True Charged Slash Lv2",
+      "hits": [
+        20,
+        182
+      ]
+    },
+    {
+      "name": "True Charged Slash Lv3",
+      "hits": [
+        22,
+        211
+      ]
+    },
+    {
+      "name": "True Charged Slash Lv4",
+      "hits": [
+        20,
+        182
+      ]
+    },
+    {
+      "name": "Wide Slash",
+      "hits": [
+        26
+      ]
+    },
+    {
+      "name": "Rising Slash",
+      "hits": [
+        38
+      ]
+    },
+    {
+      "name": "Side Blow",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Tackle Lv1",
+      "hits": [
+        26
+      ]
+    },
+    {
+      "name": "Tackle Lv2",
+      "hits": [
+        35
+      ]
+    },
+    {
+      "name": "Tackle Lv3",
+      "hits": [
+        48
+      ]
+    },
+    {
+      "name": "Jumping Wide Slash Lv1",
+      "hits": [
+        71
+      ]
+    },
+    {
+      "name": "Jumping Wide Slash Lv2",
+      "hits": [
+        85
+      ]
+    },
+    {
+      "name": "Jumping Wide Slash Lv3",
+      "hits": [
+        110
+      ]
+    },
+    {
+      "name": "Jumping Slash",
+      "hits": [
+        70
+      ]
+    },
+    {
+      "name": "Midair Charged Slash Lv1",
+      "hits": [
+        70
+      ]
+    },
+    {
+      "name": "Midair Charged Slash Lv2",
+      "hits": [
+        92
+      ]
+    },
+    {
+      "name": "Midair Charged Slash Lv3",
+      "hits": [
+        106
+      ]
+    },
+    {
+      "name": "Strong Wide Slash Lv1",
+      "hits": [
+        59
+      ]
+    },
+    {
+      "name": "Strong Wide Slash Lv2",
+      "hits": [
+        66
+      ]
+    },
+    {
+      "name": "Strong Wide Slash Lv3",
+      "hits": [
+        78
+      ]
+    },
+    {
+      "name": "Charged Rising Slash Lv1",
+      "hits": [
+        48
+      ]
+    },
+    {
+      "name": "Charged Rising Slash Lv2",
+      "hits": [
+        72
+      ]
+    },
+    {
+      "name": "Charged Rising Slash Lv3",
+      "hits": [
+        98
+      ]
+    },
+    {
+      "name": "Plunging Thrust Lv1",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Plunging Thrust Lv2",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Plunging Thrust Lv3",
+      "hits": [
+        27
+      ]
+    }
+  ],
+  "long-sword": [
+    {
+      "name": "Step Slash",
+      "hits": [
+        24
+      ]
+    },
+    {
+      "name": "Thrust",
+      "hits": [
+        12
+      ]
+    },
+    {
+      "name": "Overhead Slash",
+      "hits": [
+        21
+      ]
+    },
+    {
+      "name": "Rising Slash",
+      "hits": [
+        18
+      ]
+    },
+    {
+      "name": "Fade Slash",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Lateral Fade Slash",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Spirit Jumping Slash",
+      "hits": [
+        18
+      ]
+    },
+    {
+      "name": "Spirit Blade I",
+      "hits": [
+        14
+      ]
+    },
+    {
+      "name": "Spirit Blade II",
+      "hits": [
+        30
+      ]
+    },
+    {
+      "name": "Spirit Blade III",
+      "hits": [
+        12,
+        14,
+        34
+      ]
+    },
+    {
+      "name": "Spirit Roundslash",
+      "hits": [
+        38
+      ]
+    },
+    {
+      "name": "Spirit Thrust",
+      "hits": [
+        42
+      ]
+    },
+    {
+      "name": "Spirit Helm Breaker (White)",
+      "hits": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Spirit Helm Breaker (Yellow)",
+      "hits": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Spirit Helm Breaker (Red)",
+      "hits": [
+        25,
+        25,
+        25,
+        25,
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "name": "Foresight Slash",
+      "hits": [
+        14
+      ]
+    },
+    {
+      "name": "Jumping Slash",
+      "hits": [
+        26
+      ]
+    },
+    {
+      "name": "Jumping Rising Slash",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Aerial Draw Spirit Blade",
+      "hits": [
+        26
+      ]
+    },
+    {
+      "name": "Jumping Spirit Blade",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Jumping Spirit Blade II",
+      "hits": [
+        4,
+        16
+      ]
+    },
+    {
+      "name": "Jumping Spirit Blade III",
+      "hits": [
+        4,
+        16,
+        28
+      ]
+    }
+  ],
+  "sword-and-shield": [
+    {
+      "name": "Chop",
+      "hits": [
+        14
+      ]
+    },
+    {
+      "name": "Side Slash",
+      "hits": [
+        13
+      ]
+    },
+    {
+      "name": "Sword/Shield Combo",
+      "hits": [
+        10,
+        20
+      ]
+    },
+    {
+      "name": "Spiral Slash (Right)",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Spiral Slash (Left)",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Spiral Slash (Back)",
+      "hits": [
+        17
+      ]
+    },
+    {
+      "name": "Thrust",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Lateral Slash",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Return Stroke",
+      "hits": [
+        21
+      ]
+    },
+    {
+      "name": "Advancing Slash",
+      "hits": [
+        18
+      ]
+    },
+    {
+      "name": "Short Shield Bash",
+      "hits": [
+        6
+      ]
+    },
+    {
+      "name": "Round Slash",
+      "hits": [
+        30
+      ]
+    },
+    {
+      "name": "Shield Attack",
+      "hits": [
+        8
+      ]
+    },
+    {
+      "name": "Shield Bash",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Hard Bash",
+      "hits": [
+        31
+      ]
+    },
+    {
+      "name": "Sliding Slash",
+      "hits": [
+        10,
+        35
+      ]
+    },
+    {
+      "name": "Guard Slash",
+      "hits": [
+        14
+      ]
+    },
+    {
+      "name": "Rising Slash",
+      "hits": [
+        14
+      ]
+    },
+    {
+      "name": "Charged Slash",
+      "hits": [
+        29,
+        40
+      ]
+    },
+    {
+      "name": "Scaling Slash",
+      "hits": [
+        15
+      ]
+    },
+    {
+      "name": "Jumping Slash",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Falling Bash",
+      "hits": [
+        39
+      ]
+    },
+    {
+      "name": "Jumping Rising Slash",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Jumping Advancing Slash",
+      "hits": [
+        18
+      ]
+    },
+    {
+      "name": "Helm Breaker",
+      "hits": [
+        20
+      ]
+    }
+  ],
+  "dual-blades": [
+    {
+      "name": "Double Slash",
+      "hits": [
+        8,
+        10
+      ]
+    },
+    {
+      "name": "Double Slash Return Stroke",
+      "hits": [
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Circle Slash",
+      "hits": [
+        11,
+        9,
+        11
+      ]
+    },
+    {
+      "name": "Lunging Strike",
+      "hits": [
+        3,
+        3,
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Left RoundSlash",
+      "hits": [
+        7,
+        5,
+        15
+      ]
+    },
+    {
+      "name": "Right RoundSlash",
+      "hits": [
+        7,
+        5,
+        15
+      ]
+    },
+    {
+      "name": "Turn Slash",
+      "hits": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Rising Slash",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Sliding Slash",
+      "hits": [
+        10,
+        10,
+        13,
+        13
+      ]
+    },
+    {
+      "name": "Demon Fangs",
+      "hits": [
+        11
+      ]
+    },
+    {
+      "name": "Twofold Demon Slash",
+      "hits": [
+        7,
+        14
+      ]
+    },
+    {
+      "name": "Sixfold Demon Slash",
+      "hits": [
+        10,
+        10,
+        9,
+        9,
+        16,
+        16
+      ]
+    },
+    {
+      "name": "Demon Flurry Rush",
+      "hits": [
+        5,
+        5,
+        4,
+        4,
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Right Fade Slash",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Left Fade Slash",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Right Double Roundslash",
+      "hits": [
+        19,
+        7,
+        11
+      ]
+    },
+    {
+      "name": "Left Double Roundslash",
+      "hits": [
+        19,
+        7,
+        11
+      ]
+    },
+    {
+      "name": "Blade Dance",
+      "hits": [
+        17,
+        17,
+        6,
+        6,
+        10,
+        10,
+        9,
+        9,
+        11,
+        11,
+        9,
+        9,
+        12,
+        7,
+        12
+      ]
+    },
+    {
+      "name": "Demon Flurry",
+      "hits": [
+        9,
+        9,
+        7,
+        7,
+        3,
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Jumping Double Slash",
+      "hits": [
+        9,
+        12
+      ]
+    },
+    {
+      "name": "Heavenly Blade Dance",
+      "hits": [
+        17,
+        11,
+        11,
+        17,
+        20,
+        20,
+        12,
+        12,
+        21,
+        21
+      ]
+    },
+    {
+      "name": "Midair Spinning Blade Dance",
+      "hits": [
+        15,
+        10,
+        15,
+        10
+      ]
+    },
+    {
+      "name": "Spinning Blade Dance Finisher",
+      "hits": [
+        20,
+        20,
+        20,
+        20,
+        12,
+        12
+      ]
+    }
+  ],
+  "hammer": [
+    {
+      "name": "Swing",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Backswing",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Overhead Smash I",
+      "hits": [
+        37
+      ]
+    },
+    {
+      "name": "Side Smash",
+      "hits": [
+        15
+      ]
+    },
+    {
+      "name": "Overhead Smash II",
+      "hits": [
+        23
+      ]
+    },
+    {
+      "name": "Upswing",
+      "hits": [
+        86
+      ]
+    },
+    {
+      "name": "Big Bang I",
+      "hits": [
+        28
+      ]
+    },
+    {
+      "name": "Big Bang II",
+      "hits": [
+        32
+      ]
+    },
+    {
+      "name": "Big Bang III",
+      "hits": [
+        45
+      ]
+    },
+    {
+      "name": "Big Bang IV",
+      "hits": [
+        65
+      ]
+    },
+    {
+      "name": "Big Bang Finisher",
+      "hits": [
+        28,
+        28,
+        0,
+        100
+      ]
+    },
+    {
+      "name": "Charged Side Blow",
+      "hits": [
+        18
+      ]
+    },
+    {
+      "name": "Charged Upswing",
+      "hits": [
+        38
+      ]
+    },
+    {
+      "name": "Charged Big Bang",
+      "hits": [
+        15,
+        76
+      ]
+    },
+    {
+      "name": "Spinning Bludgeon",
+      "hits": [
+        26,
+        18,
+        18,
+        18,
+        18,
+        18,
+        0,
+        32
+      ]
+    },
+    {
+      "name": "Charged Brutal Upswing",
+      "hits": [
+        45
+      ]
+    },
+    {
+      "name": "Charged Brutal Big Bang",
+      "hits": [
+        15,
+        15,
+        0,
+        85
+      ]
+    },
+    {
+      "name": "Charged Follow Up",
+      "hits": [
+        25
+      ]
+    },
+    {
+      "name": "Charged Follow Up (Power Charge)",
+      "hits": [
+        55
+      ]
+    },
+    {
+      "name": "Spinning Side Smash",
+      "hits": [
+        15
+      ]
+    },
+    {
+      "name": "Spinning Follow Up",
+      "hits": [
+        55
+      ]
+    },
+    {
+      "name": "Spinning Strong Upswing",
+      "hits": [
+        90
+      ]
+    },
+    {
+      "name": "Jumping Smash",
+      "hits": [
+        37
+      ]
+    },
+    {
+      "name": "Midair Spinning Bludgeon",
+      "hits": [
+        25,
+        100
+      ]
+    },
+    {
+      "name": "Jumping Charge Attack",
+      "hits": [
+        65
+      ]
+    },
+    {
+      "name": "Jumping Charge Attack II",
+      "hits": [
+        70
+      ]
+    },
+    {
+      "name": "Jumping Charge Attack III",
+      "hits": [
+        80
+      ]
+    }
+  ],
+  "hunting-horn": [
+    {
+      "name": "Right Swing",
+      "hits": [
+        27
+      ]
+    },
+    {
+      "name": "Left Swing",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Forward Swing",
+      "hits": [
+        28
+      ]
+    },
+    {
+      "name": "Backward Slam",
+      "hits": [
+        34
+      ]
+    },
+    {
+      "name": "Handle Poke",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Forward Slam",
+      "hits": [
+        14,
+        39
+      ]
+    },
+    {
+      "name": "Double Right Swing",
+      "hits": [
+        15,
+        22
+      ]
+    },
+    {
+      "name": "Performance",
+      "hits": [
+        29
+      ]
+    },
+    {
+      "name": "Encore",
+      "hits": [
+        35
+      ]
+    },
+    {
+      "name": "Shockwave",
+      "hits": [
+        27
+      ]
+    },
+    {
+      "name": "Jumping Smash",
+      "hits": [
+        35
+      ]
+    },
+    {
+      "name": "Jumping Strong Overhead Smash",
+      "hits": [
+        55
+      ]
+    },
+    {
+      "name": "Mid-air Performance",
+      "hits": [
+        35
+      ]
+    }
+  ],
+  "lance": [
+    {
+      "name": "Mid Thrust I",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Mid Thrust II",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Mid Thrust III",
+      "hits": [
+        27
+      ]
+    },
+    {
+      "name": "High Thrust I",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "High Thrust II",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "High Thrust III",
+      "hits": [
+        27
+      ]
+    },
+    {
+      "name": "Wide Sweep I",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Wide Sweep II",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Wide Sweep III",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Counter Thrust",
+      "hits": [
+        40
+      ]
+    },
+    {
+      "name": "Cancel Thrust",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Guard Thrust",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Dash Attack",
+      "hits": [
+        11
+      ]
+    },
+    {
+      "name": "Mid-Air Dash Attack",
+      "hits": [
+        25
+      ]
+    },
+    {
+      "name": "Reverse Attack",
+      "hits": [
+        50
+      ]
+    },
+    {
+      "name": "Advancing Jump Thrust",
+      "hits": [
+        50
+      ]
+    },
+    {
+      "name": "Finishing Thrust",
+      "hits": [
+        50
+      ]
+    },
+    {
+      "name": "Finishing Twin Thrust",
+      "hits": [
+        25,
+        50
+      ]
+    },
+    {
+      "name": "Shield Attack",
+      "hits": [
+        14
+      ]
+    },
+    {
+      "name": "Leaping Thrust",
+      "hits": [
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Jumping Thrust",
+      "hits": [
+        30
+      ]
+    }
+  ],
+  "gunlance": [
+    {
+      "name": "Lunging Upthrust",
+      "hits": [
+        30
+      ]
+    },
+    {
+      "name": "Lateral Thrust I, II, III",
+      "hits": [
+        24
+      ]
+    },
+    {
+      "name": "Rising Slash",
+      "hits": [
+        30
+      ]
+    },
+    {
+      "name": "Overhead Smash",
+      "hits": [
+        48
+      ]
+    },
+    {
+      "name": "Wide Sweep",
+      "hits": [
+        68
+      ]
+    },
+    {
+      "name": "Guard Thrust I, II, III",
+      "hits": [
+        18
+      ]
+    },
+    {
+      "name": "Jumping Thrust",
+      "hits": [
+        25
+      ]
+    },
+    {
+      "name": "Jumping Reload Smash",
+      "hits": [
+        44
+      ]
+    },
+    {
+      "name": "Jumping Smash",
+      "hits": [
+        44
+      ]
+    },
+    {
+      "name": "Jumping Rising Slash",
+      "hits": [
+        35
+      ]
+    }
+  ],
+  "switch-axe": [
+    {
+      "name": "Axe: Morph Slash",
+      "hits": [
+        29
+      ]
+    },
+    {
+      "name": "Axe: Side Slash",
+      "hits": [
+        23
+      ]
+    },
+    {
+      "name": "Axe: Forward Slash",
+      "hits": [
+        19
+      ]
+    },
+    {
+      "name": "Axe: Rising Slash",
+      "hits": [
+        25
+      ]
+    },
+    {
+      "name": "Axe: Overhead Slash",
+      "hits": [
+        40
+      ]
+    },
+    {
+      "name": "Axe: Wild Swing",
+      "hits": [
+        21,
+        23
+      ]
+    },
+    {
+      "name": "Axe: Fade Slash",
+      "hits": [
+        23
+      ]
+    },
+    {
+      "name": "Axe: Morph Sweep",
+      "hits": [
+        20,
+        70,
+        35
+      ]
+    },
+    {
+      "name": "Axe: Jumping Slash",
+      "hits": [
+        43
+      ]
+    },
+    {
+      "name": "Axe: Jumping Morph Slash",
+      "hits": [
+        35
+      ]
+    },
+    {
+      "name": "Axe: Jumping Sweep",
+      "hits": [
+        74
+      ]
+    },
+    {
+      "name": "Sword: Morph Slash",
+      "hits": [
+        23
+      ]
+    },
+    {
+      "name": "Sword: Downward Fade Slash",
+      "hits": [
+        45
+      ]
+    },
+    {
+      "name": "Sword: Overhead Slash",
+      "hits": [
+        29
+      ]
+    },
+    {
+      "name": "Sword: Right Rising Slash",
+      "hits": [
+        21
+      ]
+    },
+    {
+      "name": "Sword: Left Rising Slash",
+      "hits": [
+        18
+      ]
+    },
+    {
+      "name": "Sword: Double Slash",
+      "hits": [
+        22,
+        26
+      ]
+    },
+    {
+      "name": "Sword: Heavensward Flurry",
+      "hits": [
+        24,
+        32
+      ]
+    },
+    {
+      "name": "Sword: Element Discharge",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Sword: Element Discharge (Bash )",
+      "hits": [
+        6
+      ]
+    },
+    {
+      "name": "Element Discharge Finisher",
+      "hits": [
+        80
+      ]
+    },
+    {
+      "name": "Element Discharge Finisher (Early release)",
+      "hits": [
+        67
+      ]
+    },
+    {
+      "name": "Zero Sum Discharge (Initial hit)",
+      "hits": [
+        15
+      ]
+    },
+    {
+      "name": "Zero Sum Discharge (Bash )",
+      "hits": [
+        12
+      ]
+    },
+    {
+      "name": "Zero Sum Discharge Finisher",
+      "hits": [
+        96
+      ]
+    },
+    {
+      "name": "Sword: Jumping Slash",
+      "hits": [
+        35
+      ]
+    },
+    {
+      "name": "Sword: Jumping Element Discharge",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Sword: Jumping Morph Slash",
+      "hits": [
+        43
+      ]
+    },
+    {
+      "name": "Sword: Jumping Rising Slash",
+      "hits": [
+        35
+      ]
+    }
+  ],
+  "charge-blade": [
+    {
+      "name": "Sword: Forward Slash",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Sword: Weak Slash",
+      "hits": [
+        12
+      ]
+    },
+    {
+      "name": "Sword: Charged Rising Slash",
+      "hits": [
+        13
+      ]
+    },
+    {
+      "name": "Sword: Charged Double Slash",
+      "hits": [
+        27,
+        18
+      ]
+    },
+    {
+      "name": "Sword: Sliding Slash",
+      "hits": [
+        25
+      ]
+    },
+    {
+      "name": "Sword: Return Stroke",
+      "hits": [
+        15
+      ]
+    },
+    {
+      "name": "Sword: Shield Thrust",
+      "hits": [
+        12,
+        8
+      ]
+    },
+    {
+      "name": "Sword: Spinning Slash",
+      "hits": [
+        28
+      ]
+    },
+    {
+      "name": "Sword: Morph Slash",
+      "hits": [
+        44
+      ]
+    },
+    {
+      "name": "Sword: Condensed Element Slash",
+      "hits": [
+        75
+      ]
+    },
+    {
+      "name": "Sword: Jumping Slash",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Sword: Jumping Morph Slash",
+      "hits": [
+        46
+      ]
+    },
+    {
+      "name": "Sword: Jumping Rising Slash",
+      "hits": [
+        21
+      ]
+    },
+    {
+      "name": "Axe: Smash",
+      "hits": [
+        44
+      ]
+    },
+    {
+      "name": "Axe: Morph Slash",
+      "hits": [
+        28
+      ]
+    },
+    {
+      "name": "Elemental Roundslash",
+      "hits": [
+        50
+      ]
+    },
+    {
+      "name": "Axe: Rising Slash",
+      "hits": [
+        35
+      ]
+    },
+    {
+      "name": "Axe: Overhead Slash",
+      "hits": [
+        37
+      ]
+    },
+    {
+      "name": "Axe: Dash Slam",
+      "hits": [
+        45
+      ]
+    },
+    {
+      "name": "Axe: ED I",
+      "hits": [
+        21
+      ]
+    },
+    {
+      "name": "Axe: Rushing ED I",
+      "hits": [
+        21
+      ]
+    },
+    {
+      "name": "Axe: ED II",
+      "hits": [
+        10,
+        66
+      ]
+    },
+    {
+      "name": "Axe: Amped Element Discharge",
+      "hits": [
+        90
+      ]
+    },
+    {
+      "name": "Axe: Super AED (Has Phials)",
+      "hits": [
+        15,
+        90,
+        97
+      ]
+    },
+    {
+      "name": "Axe: Super AED (No Phials)",
+      "hits": [
+        15,
+        97
+      ]
+    },
+    {
+      "name": "Axe: Jumping Slash",
+      "hits": [
+        46
+      ]
+    },
+    {
+      "name": "Axe: Jumping Morph Slash",
+      "hits": [
+        22
+      ]
+    }
+  ],
+  "insect-glaive": [
+    {
+      "name": "Leaping Slash",
+      "hits": [
+        26
+      ]
+    },
+    {
+      "name": "Rising Slash Combo",
+      "hits": [
+        16,
+        14
+      ]
+    },
+    {
+      "name": "Wide Sweep",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Overhead Smash",
+      "hits": [
+        30
+      ]
+    },
+    {
+      "name": "Thrust",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Reaping Slash",
+      "hits": [
+        18
+      ]
+    },
+    {
+      "name": "Double Slash",
+      "hits": [
+        18,
+        24
+      ]
+    },
+    {
+      "name": "Strong Rising Slash Combo",
+      "hits": [
+        16,
+        14,
+        15
+      ]
+    },
+    {
+      "name": "Strong Wide Sweep",
+      "hits": [
+        18,
+        26
+      ]
+    },
+    {
+      "name": "Tornado Slash",
+      "hits": [
+        24,
+        42
+      ]
+    },
+    {
+      "name": "Strong Thrust",
+      "hits": [
+        12,
+        11
+      ]
+    },
+    {
+      "name": "Strong Reaping Slash",
+      "hits": [
+        15,
+        19
+      ]
+    },
+    {
+      "name": "Strong Double Slash",
+      "hits": [
+        16,
+        14,
+        28
+      ]
+    },
+    {
+      "name": "Dodge Slash",
+      "hits": [
+        17
+      ]
+    },
+    {
+      "name": "Jumping Slash",
+      "hits": [
+        15
+      ]
+    },
+    {
+      "name": "Strong Jumping Slash",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Jumping Advancing Slash",
+      "hits": [
+        28
+      ]
+    },
+    {
+      "name": "Strong Jumping Advancing Slash",
+      "hits": [
+        6,
+        4,
+        7,
+        4,
+        3,
+        32
+      ]
+    },
+    {
+      "name": "Kinsect (Mark Target)",
+      "hits": [
+        5
+      ]
+    },
+    {
+      "name": "Kinsect: Harvest Extract",
+      "hits": [
+        20
+      ]
+    }
+  ],
+  "light-bowgun": [
+    {
+      "name": "Melee Attack",
+      "hits": [
+        25
+      ]
+    },
+    {
+      "name": "Jumping Reload",
+      "hits": [
+        25
+      ]
+    },
+    {
+      "name": "Wyvernblast (S)",
+      "hits": [
+        26
+      ]
+    },
+    {
+      "name": "Wyvernblast (M)",
+      "hits": [
+        32
+      ]
+    },
+    {
+      "name": "Wyvernblast (L)",
+      "hits": [
+        49
+      ]
+    },
+    {
+      "name": "Normal 1",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Normal 2",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Normal 3",
+      "hits": [
+        32
+      ]
+    },
+    {
+      "name": "Pierce 1",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Pierce 2",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Pierce 3",
+      "hits": [
+        8
+      ]
+    },
+    {
+      "name": "Spread 1",
+      "hits": [
+        6
+      ]
+    },
+    {
+      "name": "Spread 2",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Spread 3",
+      "hits": [
+        8
+      ]
+    },
+    {
+      "name": "Sticky 1",
+      "hits": [
+        12
+      ]
+    },
+    {
+      "name": "Sticky 2",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Sticky 3",
+      "hits": [
+        19
+      ]
+    },
+    {
+      "name": "Sticky Projectile",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Cluster Bomb 1",
+      "hits": [
+        19
+      ]
+    },
+    {
+      "name": "Cluster Bomb 2",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Cluster Bomb 3",
+      "hits": [
+        28
+      ]
+    },
+    {
+      "name": "Cluster Projectile",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Recover 1",
+      "hits": [
+        0
+      ]
+    },
+    {
+      "name": "Recover 2",
+      "hits": [
+        0
+      ]
+    },
+    {
+      "name": "Poison 1",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Poison 2",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Paralysis 1",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Paralysis 2",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Sleep 1",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Sleep 2",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Exhaust 1",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Exhaust 2",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Flaming",
+      "hits": [
+        5
+      ]
+    },
+    {
+      "name": "Water",
+      "hits": [
+        5
+      ]
+    },
+    {
+      "name": "Freeze",
+      "hits": [
+        5
+      ]
+    },
+    {
+      "name": "Thunder",
+      "hits": [
+        5
+      ]
+    },
+    {
+      "name": "Dragon",
+      "hits": [
+        2
+      ]
+    },
+    {
+      "name": "Slicing Projectile",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Slicing",
+      "hits": [
+        6
+      ]
+    },
+    {
+      "name": "Wyvern (Primary)",
+      "hits": [
+        70
+      ]
+    },
+    {
+      "name": "Wyvern (Additional)",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Demon",
+      "hits": [
+        0
+      ]
+    },
+    {
+      "name": "Armor",
+      "hits": [
+        0
+      ]
+    },
+    {
+      "name": "Tranq",
+      "hits": [
+        0
+      ]
+    }
+  ],
+  "heavy-bowgun": [
+    {
+      "name": "Normal 1",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Normal 2",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Normal 3",
+      "hits": [
+        32
+      ]
+    },
+    {
+      "name": "Pierce 1",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Pierce 2",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Pierce 3",
+      "hits": [
+        8
+      ]
+    },
+    {
+      "name": "Spread 1",
+      "hits": [
+        6
+      ]
+    },
+    {
+      "name": "Spread 2",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Spread 3",
+      "hits": [
+        8
+      ]
+    },
+    {
+      "name": "Sticky 1",
+      "hits": [
+        12
+      ]
+    },
+    {
+      "name": "Sticky 2",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Sticky 3",
+      "hits": [
+        19
+      ]
+    },
+    {
+      "name": "Sticky Projectile",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Cluster Bomb 1",
+      "hits": [
+        19
+      ]
+    },
+    {
+      "name": "Cluster Bomb 2",
+      "hits": [
+        22
+      ]
+    },
+    {
+      "name": "Cluster Bomb 3",
+      "hits": [
+        28
+      ]
+    },
+    {
+      "name": "Cluster Projectile",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Recover 1",
+      "hits": [
+        0
+      ]
+    },
+    {
+      "name": "Recover 2",
+      "hits": [
+        0
+      ]
+    },
+    {
+      "name": "Poison 1",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Poison 2",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Paralysis 1",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Paralysis 2",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Sleep 1",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Sleep 2",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Exhaust 1",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Exhaust 2",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Flaming",
+      "hits": [
+        5
+      ]
+    },
+    {
+      "name": "Water",
+      "hits": [
+        5
+      ]
+    },
+    {
+      "name": "Freeze",
+      "hits": [
+        5
+      ]
+    },
+    {
+      "name": "Thunder",
+      "hits": [
+        5
+      ]
+    },
+    {
+      "name": "Dragon",
+      "hits": [
+        2
+      ]
+    },
+    {
+      "name": "Slicing Projectile",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Slicing",
+      "hits": [
+        6
+      ]
+    },
+    {
+      "name": "Wyvern (Primary)",
+      "hits": [
+        70
+      ]
+    },
+    {
+      "name": "Wyvern (Additional)",
+      "hits": [
+        16
+      ]
+    },
+    {
+      "name": "Demon",
+      "hits": [
+        0
+      ]
+    },
+    {
+      "name": "Armor",
+      "hits": [
+        0
+      ]
+    },
+    {
+      "name": "Tranq",
+      "hits": [
+        0
+      ]
+    },
+    {
+      "name": "Melee Attack",
+      "hits": [
+        30
+      ]
+    },
+    {
+      "name": "Jumping Reload",
+      "hits": [
+        30
+      ]
+    },
+    {
+      "name": "Wyvernheart",
+      "hits": [
+        9
+      ]
+    },
+    {
+      "name": "Wyvernsnipe",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Wyvernsnipe Explosion (S)",
+      "hits": [
+        38
+      ]
+    },
+    {
+      "name": "Wyvernsnipe Explosion (M)",
+      "hits": [
+        49
+      ]
+    },
+    {
+      "name": "Wyvernsnipe Explosion (L)",
+      "hits": [
+        81
+      ]
+    }
+  ],
+  "bow": [
+    {
+      "name": "Charged Shot (Lv 1)",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Charged Shot (Lv 2)",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Charged Shot (Lv 3)",
+      "hits": [
+        11
+      ]
+    },
+    {
+      "name": "Charged Shot (Lv 4)",
+      "hits": [
+        12
+      ]
+    },
+    {
+      "name": "Power Shot (Lv 1)",
+      "hits": [
+        6
+      ]
+    },
+    {
+      "name": "Power Shot (Lv 2)",
+      "hits": [
+        9
+      ]
+    },
+    {
+      "name": "Power Shot (Lv 3)",
+      "hits": [
+        11
+      ]
+    },
+    {
+      "name": "Power Shot (Lv 4)",
+      "hits": [
+        13
+      ]
+    },
+    {
+      "name": "Arc Shot (Lv 1)",
+      "hits": [
+        1
+      ]
+    },
+    {
+      "name": "Arc Shot (Lv 2)",
+      "hits": [
+        2
+      ]
+    },
+    {
+      "name": "Arc Shot (Lv 3)",
+      "hits": [
+        2
+      ]
+    },
+    {
+      "name": "Arc Shot (Lv 4)",
+      "hits": [
+        2
+      ]
+    },
+    {
+      "name": "Dragon Piercer (Lv 1)",
+      "hits": [
+        19
+      ]
+    },
+    {
+      "name": "Dragon Piercer (Lv 2)",
+      "hits": [
+        20
+      ]
+    },
+    {
+      "name": "Dragon Piercer (Lv 3)",
+      "hits": [
+        23
+      ]
+    },
+    {
+      "name": "Quick Shot",
+      "hits": [
+        6
+      ]
+    },
+    {
+      "name": "Lunging Melee Attack",
+      "hits": [
+        35
+      ]
+    },
+    {
+      "name": "Wall Climb Power Shot",
+      "hits": [
+        35
+      ]
+    },
+    {
+      "name": "Jumping Melee Attack",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Mid-air Charged Shot (Lv 1)",
+      "hits": [
+        7
+      ]
+    },
+    {
+      "name": "Mid-air Charged Shot (Lv 2)",
+      "hits": [
+        10
+      ]
+    },
+    {
+      "name": "Mid-air Charged Shot (Lv 3)",
+      "hits": [
+        11
+      ]
+    }
+  ]
+}

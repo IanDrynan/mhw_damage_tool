@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.Weapon {
+  flex-basis: 25%;
+}
+.Attack {
+  flex-basis: 10%;
+}
+.Monster{
+  flex-basis: 10%;
+}
