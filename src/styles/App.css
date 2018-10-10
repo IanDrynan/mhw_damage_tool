@@ -1,7 +1,6 @@
 .App {
   text-align: center;
   overflow: visible, auto;
-  
   display: flex;
   justify-content: center;
   flex-flow: wrap;
