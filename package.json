@@ -2,7 +2,7 @@
   "name": "mhw-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://IanDrynan.github.io/mhw-damage-tool",
+  "homepage": "https://iandrynan.github.io/mhw_damage_tool",
   "dependencies": {
     "antd": "^3.9.2",
     "babel-plugin-import": "^1.8.0",

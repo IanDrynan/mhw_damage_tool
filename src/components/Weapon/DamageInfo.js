@@ -1,29 +1,7 @@
 import React from 'react'
 import { Table } from 'antd'
 import '../../styles/DamageInfo.css'
-
-const sharpRawMulti = {
-    "red": .5,
-    "orange": .75,
-    "yellow": 1.00,
-    "green": 1.05,
-    "blue": 1.20,
-    "white": 1.32,
-}
-const sharpEleMulti = {
-    "red": .25,
-    "orange": .50,
-    "yellow": .75,
-    "green": 1.00,
-    "blue": 1.0625,
-    "white": 1.125,
-}
-
-const coatingMulti = {
-    "none": 1.00,
-    "close": 1.18,
-    "power": 1.35,
-}
+import {sharpRawMulti, sharpEleMulti, coatingMulti} from '../../data/constants.js'
 
 function DamageInfo(props) {
 
@@ -72,7 +50,6 @@ function DamageInfo(props) {
         </div>
     )
 }
-//these need skill values
 function getEffectiveRaw(trueRaw, sharp, coating) {
     return Math.round(trueRaw * sharpRawMulti[sharp] * coatingMulti[coating])
 }
