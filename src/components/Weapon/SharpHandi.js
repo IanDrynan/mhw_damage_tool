@@ -15,7 +15,7 @@ function SharpHandi(props) {
         }
     }
     return (
-        <div style={{display: 'flex', justifyContent: 'space-between'}}>
+        <div className="SharpHandi">
             <Select defaultValue="0" onChange={e => props.onSelectHandicraft(parseInt(e,10))} value={"Handicraft " + props.handicraft}>
                 <Option value="0">Handicraft 0</Option>
                 <Option value="1">Handicraft 1</Option>

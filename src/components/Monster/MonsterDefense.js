@@ -1,12 +1,13 @@
 import React from 'react'
 import { InputNumber } from 'antd'
+import '../../styles/MonsterDefense.css'
 
 //should i make this a controlled componnet by passing value as a prop?
 function MonsterDefense(props) {
     return (
-        <div>
+        <div className="MonsterDefense">
             <span>Damage Effectiveness</span>
-            <div className="rawEffectiveness">
+            <div className="RawEffectiveness">
                 <span>Raw: </span>
                 <InputNumber
                     defaultValue={50}
@@ -18,7 +19,7 @@ function MonsterDefense(props) {
                 />
             </div>
             
-            <div className="rawEffectiveness">
+            <div className="EleEffectiveness">
                 <span>Ele: </span>
                 <InputNumber
                 defaultValue={50}

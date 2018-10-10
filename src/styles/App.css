@@ -1,14 +1,23 @@
 .App {
   text-align: center;
+  overflow: visible, auto;
+  
   display: flex;
   justify-content: center;
+  flex-flow: wrap;
+  align-items: center;
+  align-content: space-around;
+  margin: 5px;
 }
 .Weapon {
-  flex-basis: 25%;
+  margin: 5px;
+  flex: 0 1 auto;
 }
 .Attack {
-  flex-basis: 10%;
+  margin: 5px;
+  flex: 0 1 auto;
 }
 .Monster{
-  flex-basis: 10%;
+  margin: 5px;
+  flex: 0 1 auto;
 }

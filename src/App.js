@@ -76,7 +76,7 @@ class App extends Component {
           { this.state.weapon !== "" && <Motion onSelectAttack={this.handleAttackSelect} weaponType={this.state.weapon.type}/>}
         </section>
         <section className="Monster">
-          <MonsterDefense rawDef={this.state.rawDef} eleDef={this.state.eleDef} handleRawDef={this.handleRawDef} handleEleDef={this.handleEleDef}/>
+        { this.state.weapon !== "" && <MonsterDefense rawDef={this.state.rawDef} eleDef={this.state.eleDef} handleRawDef={this.handleRawDef} handleEleDef={this.handleEleDef}/>}
         </section>
 
       </div>

@@ -67,7 +67,7 @@ function DamageInfo(props) {
     }]
 
     return (
-        <div>
+        <div className="DamageInfo">
             <Table dataSource={dataSource} columns={columns} pagination={false}/>
         </div>
     )

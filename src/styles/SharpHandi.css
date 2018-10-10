@@ -1,3 +1,9 @@
+.SharpHandi{
+  display: flex;
+  justify-content: space-between;
+}
+
+
 .sharp.ant-radio-button-wrapper.ant-radio-button-wrapper-checked{
   border-color: black;
 }

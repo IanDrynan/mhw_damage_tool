@@ -1,0 +1,13 @@
+.MonsterDefense{
+    display: flex;
+    flex-flow: column;
+    align-items: flex-end;
+    font-weight: 500;
+}
+.RawEffectiveness{
+    margin: 5px;
+    
+}
+.EleEffectiveness{
+    margin: 5px;
+}
